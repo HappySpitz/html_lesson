@@ -1,0 +1,19 @@
+h1 {
+    background:rosybrown;
+    color: midnightblue;
+}
+h2 {
+    background:mistyrose;
+    color: indigo;
+}
+p {
+    background:skyblue;
+    color: darkblue;
+}
+ul > li {
+    background: lavenderblush;
+    color: darkslateblue;
+}
+img {
+width: 300px;
+}
