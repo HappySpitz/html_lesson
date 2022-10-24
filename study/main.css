@@ -1,0 +1,21 @@
+.target {
+    background: linear-gradient(90deg, pink,deeppink);
+    width: 200px;
+    height: auto;
+    /*overflow: hidden;*/
+    overflow: auto;
+    /*</editor-fold>*/
+   /* font-size: 30px;
+    display: block; */
+    text-align: justify;
+    box-sizing: border-box;
+    /*padding: 10px;*/
+    padding: 10px;
+    padding-top: 20px;
+    margin: 100px;
+    margin-bottom: 200px;
+    border: 10px solid rgba(5, 67, 34, 0.5);
+    border-radius: 20px;
+    box-shadow: 100px 100px 100px 20px;
+}
+/*text-transform: uppercase;*/

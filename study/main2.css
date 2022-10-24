@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+}
+.father {
+    background: mediumseagreen;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    column-gap: 300px;
+    flex-wrap: wrap;
+}
+.child {
+    width: 200px;
+    height: 200px;
+    background: silver;
+    border: 1px solid black;
+    box-sizing: border-box;
+}
