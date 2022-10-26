@@ -1,0 +1,43 @@
+html, body {
+    scroll-behavior: smooth;
+}
+
+#one {
+    background: silver;
+}
+
+a:visited {
+    color: red;
+}
+
+a:link {
+    color: gold
+}
+li {
+    /*background: url("https://klike.net/uploads/posts/2019-05/1556708032_1.jpg");*/
+    -o-background-size: 100%;
+    background-size: 100%;
+    color: #ff830a;
+    /*font-size: 18px;*/
+}
+li:hover {
+    /*display: none;*/
+    transition: 300ms;
+    /*width: 200px;*/
+    /*font-size: 30px;*/
+}
+ [class*='et'] {
+    font-size: 30px;
+}
+img [src^='png'] {
+    width: 100px;
+}
+[abcdqw] {
+    background: red;
+}
+ul li:nth-child(2n+10) {
+    background: rgba(255, 131, 10, 0.43);
+}
+ul li:nth-child(n+30) {
+    background: white;
+}
