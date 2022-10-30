@@ -1,0 +1,17 @@
+@media screen and (min-width: 0px) and (max-width: 992px){
+    .A {
+        height: 21%
+    }
+    .B_and_C {
+        height: 78%;
+        flex-direction: column;
+    }
+    .B {
+        width: 98.5%;
+        height: 70%;
+    }
+    .C {
+        width: 98.5%;
+        height: 25%;
+    }
+}
